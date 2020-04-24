@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ce66e5b-3465-40ce-a97d-7b180fb5ec9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1XbxYkWGyfgoLqFqzN9RkiRiGgJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../node/撩课/代码" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\前端\实战项目\京东\images\silder" />
+      <recent name="D:\前端\实战项目\京东\images\miaosha" />
+      <recent name="D:\前端\实战项目\京东\images\tubiao" />
+      <recent name="D:\前端\实战项目\京东\css" />
+      <recent name="D:\前端\实战项目\京东\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\前端\实战项目\京东\fonts" />
+      <recent name="D:\前端\实战项目\京东\images\logo" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ce66e5b-3465-40ce-a97d-7b180fb5ec9c" name="Default Changelist" comment="" />
+      <created>1581328644489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581328644489</updated>
+      <workItem from="1581328647319" duration="7761000" />
+      <workItem from="1581346062366" duration="296000" />
+      <workItem from="1581390755831" duration="17420000" />
+      <workItem from="1581482354636" duration="7418000" />
+      <workItem from="1581579357428" duration="3297000" />
+      <workItem from="1581904353810" duration="41000" />
+      <workItem from="1582170085015" duration="15755000" />
+      <workItem from="1582255743919" duration="4696000" />
+      <workItem from="1582434446790" duration="48000" />
+      <workItem from="1584455605854" duration="5767000" />
+      <workItem from="1584493988832" duration="5474000" />
+      <workItem from="1586143740518" duration="9319000" />
+      <workItem from="1586183535706" duration="1648000" />
+      <workItem from="1586224312338" duration="7054000" />
+      <workItem from="1586247164577" duration="347000" />
+      <workItem from="1586570454459" duration="537000" />
+      <workItem from="1586571505711" duration="10216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586151107862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586151107862" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581342163035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581342163035" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1586588410869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586588410869" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1581397566009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581397566009" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584505177901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584505177901" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581517719867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581517719867" />
+  </component>
+</project>

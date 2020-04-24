@@ -1,0 +1,50 @@
+@charset "UTF-8";
+body, p, ul, h1, h2, h5, h6, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+body {
+    font: 12px/1.5 Microsoft YaHei;
+    background-color: #fff;
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #666;
+}
+
+img {
+    vertical-align: top;
+    border: 0;
+}
+
+input, button {
+    border: none;
+    padding: 0;
+    outline: none;
+}
+
+em, i {
+    font-style: normal;
+}
+
+.w {
+    width: 1190px;
+    margin: 0 auto;
+}
+
+.clearfix:after {
+    display: block;
+    content: '';
+    clear: both;
+}

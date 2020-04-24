@@ -1,0 +1,264 @@
+@charset "UTF-8";
+#app {
+    position: relative;
+    z-index: 10;
+}
+
+#J_seckill {
+    position: relative;
+    z-index: 10;
+}
+
+/********************************秒杀开始***************************************/
+.seckill {
+    height: 260px;
+    margin-bottom: 20px;
+}
+
+.seckill .jd_container {
+    width: 1190px;
+    margin: auto;
+}
+
+.seckill .seckill__inner {
+    overflow: hidden;
+    background-color: #fff;
+    height: 100%;
+}
+
+.seckill .seckill__inner .seckill-countdown {
+    position: relative;
+    float: left;
+    width: 190px;
+    height: 100%;
+    color: #fff;
+    background-color: #e83632;
+    background-image: url("../images/miaosha/1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50%;
+}
+
+.seckill .seckill__inner .seckill-countdown .countdown-title {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 31px;
+}
+
+.seckill .countdown-desc {
+    margin-top: 90px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.seckill .countdown-desc strong {
+    font-size: 18px;
+    padding-right: 2px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -1px;
+}
+
+.seckill .countdown-main {
+    margin: auto;
+    width: 130px;
+    height: 30px;
+    margin-top: 10px;
+    display: block;
+}
+
+.timmer {
+    color: #333;
+    font-weight: 700;
+}
+
+.seckill .countdown-main .timmer__unit {
+    position: relative;
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-color: #2f3430;
+    margin-right: 20px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.seckill .countdown-main .timmer__unit::after {
+    content: ":";
+    display: block;
+    position: absolute;
+    right: -20px;
+    font-weight: bolder;
+    font-size: 18px;
+    width: 20px;
+    height: 100%;
+    top: 0;
+}
+
+.seckill .countdown-main .timmer__unit:last-child::after {
+    content: '';
+}
+
+.seckill .countdown-main .timmer__unit--second {
+    margin-right: 0;
+}
+
+/********************************秒杀结束***************************************/
+/********************************滑动开始***************************************/
+.seckill .seckill-list {
+    position: relative;
+    float: left;
+    width: 800px;
+    overflow: hidden;
+    height: 100%;
+}
+
+.seckill .seckill-list .slider_control {
+    position: absolute;
+    border-radius: 0;
+    top: 50%;
+    width: 25px;
+    height: 35px;
+    line-height: 35px;
+    background-color: rgba(0, 0, 0, .15);
+    font-size: 20px;
+    margin-top: -20px;
+    z-index: 2;
+    transition: background-color .2s ease;
+    color: rgba(255, 255, 255, .8);
+}
+
+.seckill .seckill-list .slider_control_prev {
+    left: 0;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+.seckill .seckill-list .slider_control_prev .slider_left {
+    position: relative;
+    left: -3px;
+}
+
+.seckill .seckill-list .slider_control_next {
+    right: 0;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+}
+
+.seckill .seckill-list .slider_control .slider_right {
+    position: relative;
+    right: -3px;
+}
+
+.seckill .slider-list {
+    overflow: hidden;
+}
+
+.seckill .slider-list .seckill-item {
+    position: relative;
+    height: 260px;
+    display: inline-block;
+    float: left;
+    width: 200px;
+}
+
+.seckill .slider-list .seckill-item .seckill-item__image {
+    width: 140px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.seckill .slider-list .seckill-item .seckill-item__image .lazyimg_img {
+    width: 100%;
+    height: 100%;
+}
+
+.seckill .slider-list .seckill-item .seckill-item__name {
+    font-size: 12px;
+    font-weight: 400;
+    color: #333;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 160px;
+    margin-top: 13px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.seckill .slider-list .seckill-item__price {
+    overflow: hidden;
+    width: 160px;
+    height: 24px;
+    position: relative;
+    box-sizing: border-box;
+    line-height: 24px;
+    margin-top: 6px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #e1251b;
+    background-color: #e1251b;
+}
+
+.seckill .slider-list .seckill-item__price .price-miaosha {
+    width: 92px;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    float: left;
+    line-height: 22px;
+}
+
+.seckill .slider-list .seckill-item__price .price-miaosha::before {
+    content: '';
+    width: 0;
+    height: 0;
+    border-color: transparent white transparent transparent;
+    border-style: solid;
+    border-width: 22px 8px 0 0;
+    position: absolute;
+    top: 0;
+    left: 84px;
+}
+.seckill .slider-list .seckill-item__price .price-miaosha i{
+    font-size: 12px;
+    font-weight: 400;
+    padding-right: 2px;
+}
+.seckill .slider-list .seckill-item__price .price-origin{
+    width: 66px;
+    height: 100%;
+    background-color: #fff;
+    float: right;
+    color: #999;
+    font-size: 12px;
+    box-sizing: border-box;
+    text-decoration: line-through;
+    vertical-align: top;
+    line-height: 22px;
+    text-align: center;
+}
+.seckill-list .seckill-item:after{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 1px;
+    height: 200px;
+    transform:translateY(-50%);
+    background:linear-gradient(180deg,white,#eeeeee,white);
+}
+
+/********************************滑动结束***************************************/
+
+
