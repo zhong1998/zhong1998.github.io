@@ -1,5 +1,5 @@
 @charset "UTF-8";
-body, p, ul, h1, h2, h5, h6, ul, li {
+body, p, ul, h1, h2, h3, h5, h6, ul, li {
     margin: 0;
     padding: 0;
 }

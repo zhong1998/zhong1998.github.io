@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb729799-3ff6-40a6-abc2-7b50ada822ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/other/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/03.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/04.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/05.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silder/photo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1azECxC45HU7T1EAAI1kGpArgHo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\前端\实战项目\京东\images\other" />
+      <recent name="D:\前端\实战项目\京东\images\logo" />
+      <recent name="D:\前端\实战项目\京东\images\silder" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb729799-3ff6-40a6-abc2-7b50ada822ab" name="Default Changelist" comment="" />
+      <created>1587729897642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587729897642</updated>
+      <workItem from="1587729900230" duration="2188000" />
+      <workItem from="1587775276217" duration="42000" />
+      <workItem from="1588401595653" duration="13317000" />
+      <workItem from="1588472330877" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1587775316939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587775316939" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1588414549113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588414549113" />
+  </component>
+</project>
