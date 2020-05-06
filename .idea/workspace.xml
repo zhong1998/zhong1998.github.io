@@ -2,9 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb729799-3ff6-40a6-abc2-7b50ada822ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/other/09.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/other/10.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/other/11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/15.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/other/16.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/005eef925d785c02.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/03af759428d7c048.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/0a284260e8033a4c.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/0bcb95e04e2b7346.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/104c5e0aee57ae1f.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/1ac13b714f62180f.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/1f791c3553c063c8.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/23f3ddf914b1b527d0429a3d713cfe3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/351e6d8417cf2f33.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/4ca3083684878143.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/58574948N24107c76.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/58ea602c1d518d46.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/5b6abe42N0ffc2edf.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/5bb779b9Nb03f5460.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/5bb99577N4f9d59e6.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/5bbb3d5dNa1ad4ed6.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/5ce5057cN2ec871df.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/6424841b7fa17f99.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/657f9e7d1b52ed16.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/6717593281ccb9d6.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/743907edd8e79e9e.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/7bf4c9d1dce00e1e.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/9611810f9131248b.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/c47b0720efc9078a.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/cadf584847ba6e02.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/df7de5258b8b31fb.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/ee5997106a1832d6.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/sprite-photo-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/sprite.head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w/下载.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bottom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -13,6 +56,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,12 +77,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/other" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/w" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\前端\实战项目\京东\images\w" />
       <recent name="D:\前端\实战项目\京东\images\other" />
       <recent name="D:\前端\实战项目\京东\images\logo" />
       <recent name="D:\前端\实战项目\京东\images\silder" />
@@ -64,7 +116,9 @@
       <workItem from="1587775276217" duration="42000" />
       <workItem from="1588401595653" duration="13317000" />
       <workItem from="1588472330877" duration="9430000" />
-      <workItem from="1588488784346" duration="173000" />
+      <workItem from="1588488784346" duration="5006000" />
+      <workItem from="1588550357865" duration="2043000" />
+      <workItem from="1588670528116" duration="2158000" />
     </task>
     <task id="LOCAL-00001" summary="第二次,京东提交更新,加油。我们是最棒的">
       <created>1588472441097</created>
@@ -73,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588472441097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第三次,京东提交更新,加油。我们是最棒的">
+      <created>1588489028418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588489028418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,21 +142,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次,京东提交更新,加油。我们是最棒的" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次,京东提交更新,加油。我们是最棒的" />
+    <MESSAGE value="第三次,京东提交更新,加油。我们是最棒的" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次,京东提交更新,加油。我们是最棒的" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1588472438849">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1588489026751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588472438849" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588489026751" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1587775316939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587775316939" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588472514804">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588489037714">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588472514804" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588489037714" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1588414549113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -650,7 +650,7 @@
     position: relative;
     width: 270px;
     height: 265px;
-    margin-right: 15px;
+    margin-right: 11px;
     display: inline-block;
 }
 
@@ -756,7 +756,7 @@
     text-align: center;
     overflow: hidden;
     display: inline-block;
-    width: 135px;
+    width: 131px;
     height: 100px;
     padding: 14px 0;
     box-sizing: border-box;
