@@ -169,6 +169,7 @@
     font-size:14px;
     line-height:24px;
     overflow:hidden;
+    color: #666;
     word-break:break-all;
     text-align:left;
     display:-webkit-box;
@@ -207,7 +208,6 @@
     margin-right:3px;
 }
 .more2_info_price_txt{
-    position:absolute;
     font-size:20px;
     font-weight:700;
     font-family:arial,sans-serif;
@@ -393,12 +393,8 @@
     padding:15px 0;
     border-top: 1px solid #e1e1e1;
     text-align:center;
-    box-sizing:border-box;
-}
-.mod_copyright_links{
-    box-sizing:border-box;
 }
 .mod_copyright_split{
-    margin:0 8px;
+    margin:0 10px;
     color:#ccc;
 }
