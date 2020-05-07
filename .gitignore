@@ -1,4 +1,4 @@
 *.idea
  #表示忽略所有 .idea结尾的文件
 
-*reset.css
+/.idea
