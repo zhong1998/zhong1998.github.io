@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb729799-3ff6-40a6-abc2-7b50ada822ab" name="Default Changelist" comment="第五次,京东提交更新,加油。我们是最棒的">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="cb729799-3ff6-40a6-abc2-7b50ada822ab" name="Default Changelist" comment="第五次,京东提交更新,加油。我们是最棒的" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +71,7 @@
       <workItem from="1588550357865" duration="2043000" />
       <workItem from="1588670528116" duration="2158000" />
       <workItem from="1588749474697" duration="3136000" />
-      <workItem from="1588811321543" duration="641000" />
+      <workItem from="1588811321543" duration="1025000" />
     </task>
     <task id="LOCAL-00001" summary="第二次,京东提交更新,加油。我们是最棒的">
       <created>1588472441097</created>
