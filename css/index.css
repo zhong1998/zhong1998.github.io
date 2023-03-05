@@ -422,7 +422,6 @@
 }
 
 .fs_inner .fs_col2 .focus .focus-slider .sliderBannerWrapper .sliderBanner .slider_left {
-    z-index: 1;
     left: -3px;
     border-top-right-radius: 18px;
     border-bottom-right-radius: 18px;
@@ -528,7 +527,6 @@
     border-radius: 0;
     cursor: pointer;
     border: 0;
-    z-index: 2;
 }
 
 .focus .focus-slider .sliderRecommendWrapper .sliderRecommend .slider_control_prev {
@@ -835,7 +833,6 @@
     position: absolute;
     height: 1px;
     left: 15px;
-    top: 15px;
     right: 15px;
     background: linear-gradient(270deg, white, #eeeeee, #eeeeee, white);
     top: 0;

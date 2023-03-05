@@ -30,7 +30,8 @@
  */
 (function (window) {
     var currentIndex = 0, slider_indicators = document.getElementsByClassName('slider_indicators')[0],
-        slider_wrapper = document.getElementsByClassName('slider_wrapper')[0], aImages = slider_wrapper.children,sliderBanner =document.getElementsByClassName('sliderBanner')[0];
+        slider_wrapper = document.getElementsByClassName('slider_wrapper')[0], aImages = slider_wrapper.children,
+        sliderBanner = document.getElementsByClassName('sliderBanner')[0];
     //1)动态创建li,根据图片的个数
     for (var i = 0; i < aImages.length; i++) {
         var li = document.createElement('li');
@@ -63,6 +64,7 @@
     btnRight.onclick = function () {
         autoPlay();
     };
+
     //排他
     function changeIndex() {
         for (var i = 0; i < slider_indicators.children.length; i++) {
@@ -89,14 +91,14 @@
         })(k)
     }
     //5、定时器
-    var intervalID = setInterval(autoPlay,4000);
+    var intervalID = setInterval(autoPlay, 4000);
 
     //6、清除定时器
-    sliderBanner.onmouseover =function () {
+    sliderBanner.onmouseover = function () {
         clearInterval(intervalID);
     };
-    sliderBanner.onmouseout =function () {
-        intervalID = setInterval(autoPlay,3000);
+    sliderBanner.onmouseout = function () {
+        intervalID = setInterval(autoPlay, 3000);
     };
 
 
@@ -111,3 +113,30 @@
         changeIndex();
     };
 })(window);
+
+(function (w) {
+    let popCon = $("pop_container");
+    let cateUl = document.getElementsByClassName("cate_menu")[0];
+    let LiList = cateUl.getElementsByClassName("cate_menu_item");
+    let catePart = document.getElementsByClassName("cate_part_col1");
+    for (let i = 0; i < LiList.length; ++i) {
+        catePart[i].style.display = "none";
+        LiList[i].addEventListener("mouseover", function () {
+            popCon.style.display = "block";
+            catePart[i].style.display = "block";
+        })
+        LiList[i].addEventListener("mouseout", function () {
+            popCon.style.display = "none";
+            catePart[i].style.display = "none";
+        })
+        catePart[i].addEventListener("mouseover",function () {
+            popCon.style.display = "block";
+            catePart[i].style.display = "block";
+        })
+        // catePart[i].addEventListener("mouseout",function () {
+        //     popCon.style.display = "none";
+        //     catePart[i].style.display = "none";
+        // })
+    }
+
+})(window)
